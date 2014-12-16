@@ -10,3 +10,7 @@ You will need to get an API key and Secret for these calls.
 You can get these at Untappd.
 
 Docs used: https://untappd.com/api/docs
+
+Current Calls:
+
+Get Checkins by Lat and Long. PHP
