@@ -5,6 +5,8 @@ Standard Disclaimer: This code is not official Untappd code. It does use their A
 
 These calls are just simple calls for the Untappd API.
 
+All calls ust use https
+
 You will need to get an API key and Secret for these calls.
 
 You can get these at Untappd.
