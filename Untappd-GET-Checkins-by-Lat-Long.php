@@ -3,7 +3,7 @@
 //You will need an API key and secret from Untapped
 //simple call to get untappd check ins from the area specified by lat and log
 
-$gate = 'http://api.untappd.com/v4/thepub/local?limit=50';
+$gate = 'http://api.untappd.com/v4/thepub/local?limit=25';
 
 $lat = 'YourLat';
 
